@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>sony</id>
+    <name>Sony</name>
+    <description>Gestion des télé sony bravia</description>
+    <icon>fa fa-keyboard-o</icon>
+    <licence>AGPL</licence>
+    <author>Faez Bouloussa</author>
+    <installation>Aucune</installation>
+    <require>3.0</require>
+    <category>multimedia</category>
+</info>
+
